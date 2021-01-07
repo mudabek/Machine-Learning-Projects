@@ -3,10 +3,10 @@
 This repository contains various machine learning projects I have done
 
 #### List of all topics covered
-Image classification, Pytorch, resnet
-NLP, Random Forest Classifier, Data Engineering, sklearn
-NLP, TF-IDF, Word2Vec, Vectorizer
-jupyter-dash, commerical demo of the model, sklearn
++ Image classification, Pytorch, resnet
++ Random Forest Classifier, Data Engineering, sklearn
++ NLP, TF-IDF, Word2Vec, Vectorizer
++ jupyter-dash, commerical demo of the model
 
 #### Overview of folders
 + animal_classifier_resnet - image classifier model built using Pytorch's resnet models. *Topics: image classification, Pytorch, resnet*  
